@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <items>
+        <item name="item1">coffe</item>
+        <item name="item2">tea</item>
+        <item name="item3">bread</item>
+        <item name="item4">meat</item>
+    </items>
+</data>
